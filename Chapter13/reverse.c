@@ -2,8 +2,6 @@
 #include<stdio.h>
 #include<stdbool.h>
 #include<string.h>
-#define N 10
-#define WORD_LEN 20
 #define STACK_SIZE 100
 /* external variables */
 char* contents[STACK_SIZE];
